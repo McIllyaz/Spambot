@@ -9,6 +9,6 @@ while True:
 
     pyautogui.typewrite("Your text")
     
-    pyautogui.press("space")
+    pyautogui.press("enter")
 
     time.sleep(1.0)
